@@ -43,7 +43,7 @@ git clone https://github.com/Abhi2790/Temperature_Pred_Model.git
 cd Temperature_Pred_Model
 pip install -r requirements.txt
 ```
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 1. Add Random Forest & Gradient Boosting models
 
