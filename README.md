@@ -1,4 +1,4 @@
-# 🌡️ Temperature Prediction Model (India Weather 2000–2024)
+# 🌡️Temperature Prediction Model(India Weather 2000–2024)
 
 This project predicts **next-day maximum temperature** for Indian cities using machine learning regression models.  
 It also includes a **binary classification** task to predict whether the temperature will exceed **30°C**.  
@@ -27,13 +27,13 @@ The target variable is **next-day maximum temperature** (`target_temp_max`).
 
 ---
 
-## Requirements
+## 📊 Requirements
 
--Python 3.8+
+- Python 3.8+
 
--numpy, pandas, matplotlib
+- numpy, pandas, matplotlib
 
--scikit-learn
+- scikit-learn
 
 ## ⚙️ Installation
 Clone this repository and install dependencies:  
@@ -42,12 +42,20 @@ Clone this repository and install dependencies:
 git clone https://github.com/Abhi2790/Temperature_Pred_Model.git
 cd Temperature_Pred_Model
 pip install -r requirements.txt
+```
+##🔮 Future Improvements
 
----
+1. Add Random Forest & Gradient Boosting models
+
+2. Hyperparameter tuning with GridSearchCV
+
+3. Deploy as a Flask/Django web app or Streamlit dashboard
+
+4. Integrate live weather API for real-time predictions
 
 ## 👨‍💻 Author
 
--Abhishek Kumar
--MCA (AI/ML) | ML & Data Science Enthusiast
+- Abhishek Kumar
+- MCA (AI/ML) | ML & Data Science Enthusiast
 
 
